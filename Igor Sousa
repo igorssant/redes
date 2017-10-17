@@ -1,0 +1,65 @@
+Igor Sousa
+TI 431
+Atividade de subredes 3
+
+
+
+1º
+10.188.31.0/23
+2^n-2>=30
+n = 5
+5 zeros, logo /27
+alternativa A
+
+2º
+172.16.28.252/20
+256-240=16
+0->15
+16->31
+alternativa A
+
+3º
+192.168.10/27
+	132/27
+	1.48/28
+2^n-2>=60
+n=6
+6 zeros, logo /26
+varia em 64
+alternativa B
+
+4º
+10.24.24.24/29
+varia em 8
+alternativa D
+
+5º
+a) 192.168.1.58/27
+	    .33
+varia em 52    FALSO
+b) 192.168.1.34/27
+	FALSO
+c) FALSO
+
+d) 192.168.1.62 CERTO
+	    .65
+Estão na mesma subrede 
+
+e) FALSO
+
+6º
+172.1.1.1/20
+2^n-2=
+2^12-2=
+=4094
+alternativa A
+
+7º
+192.0.2.0/23
+varia em 2
+alternativas D
+
+8º
+/22
+varia em 4
+alternativas B e D
