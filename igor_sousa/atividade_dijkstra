@@ -1,0 +1,25 @@
+Aluno: Igor Sousa dos Santana
+turma: TI431
+
+                                  Atividade DIJKSTRA
+Questão 1:
+
+a)
+1 -> 3 -> 4 -> 5 -> 6
+Soma: 25.
+b)
+Sim, pois pelos calculos utilisados no item anterior, chegam ao nó 4 pelo menor caminho possível.
+c)
+Não, pois com a mudança de nós o caminho e o somatório também muda.
+
+Questão 2:
+1 -> 2 -> 3 -> 4 -> 8 -> Ourivesaria
+Soma: 54.
+
+Questão 3:
+
+a)
+O jogo funcionará da seguinte modo: calcular todas as rotas possíveis e tomar aquela que tenha o menor somatório, cada casa é numerada na horizontal começando da esquerda e da linha de cima. Sendo que só pode mover-se para a direita ou para baixo. O número que esta dentro de cada casa será correspondente à distância entre as duas.
+
+b)
+Seguindo as regras ditas no item "a", o menor caminho a ser tomado será: 1 -> 5 -> 9 -> 10 -> 11 -> 12, cuja soma será: 21.
