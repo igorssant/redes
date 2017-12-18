@@ -1,0 +1,55 @@
+Aluno: Igor Sousa
+Turma: TI431
+Data: 16/12/2017
+
+                          Atividade de camada de transporte
+                          
+Questão 1:
+
+É representado pela camada 4.
+
+Questão 2:
+
+Segmento.
+
+Questão 3:
+
+TCP, UDP.
+
+Questão 4:
+
+Orientado à conexão.
+Entrega de dados com sobrecarga adicional.
+Entrega ordenada, confiável e realiza controle de fluxo.
+É utilizado em aplicações como navegadores Web, E-mail e FTP.
+
+Questão 5:
+
+É um protocolo simples.
+Entrega de dados com baixa sobrecarga. 
+Não orientado a conexão.
+É utilizado em aplicações como, DNS, Vídeo em Streaming e Voz Sobre IP (VOIP).
+
+Questão 6:
+
+Serve para indentificar qual processo será encarregado de receber a informação trazida por um pacote e também serve para se comunicar com uma porta exterior.
+
+Questão 7:
+
+É o ponto final de um fluxo de comunicação entre processos feitos por uma rede de computadores.
+
+Questão 8:
+
+Origem Y e destino X.
+
+Questão 9:
+
+Ele é mais rápido que o TCP e tem baixa sobrecarga de dados e tem determinados tipos de aplicação que não é necessário dizer se o dado chegou ao destino ou não.
+
+Questão 10:
+
+a)233-->15.
+b)180-->15.
+c)15-->233.
+d)15->180.
+e)Não, porque mesmo ambos sendo hospedeiros eles possuem portas de números diferentes.
