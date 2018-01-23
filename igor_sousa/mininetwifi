@@ -1,0 +1,49 @@
+Aluno: Igor Sousa dos Santos Santana
+Matéria: Redes de computadores
+Data: 22/01/2018
+
+
+                                      Mininet-WiFi                                    
+1)
+Mininet-WiFi: A Platform for Hybrid Physical-Virtual Software-Defined Wireless Networking Research, tratando de forma abrangente o Mininet-WiFi
+
+2)
+a)
+Houve um atraso de 0.145ms ocorrido porém não houve perca de dados
+
+b)
+Banda de 10.5 Mbit/sec
+
+c)
+txpower --> potência do sinal = 14
+Wlan  –-> conexão = 'sta1-wlan0' 
+Range –-> alcance da rede = 65
+antennaGain –-> alcance da antena = 5
+frequency –-> frequência do sinal = 2.412
+mode –-> modo de emissão do sinal = 'g'
+antennaHeight –-> altura da antena = 1.0
+position –-> parâmetro de posição 
+channel –-> canal = 1
+
+3)
+a)
+sta3 está incomunicável, porque se encontra fora do alcance da rede
+
+b)
+LogDistancePropagationLossModel, modelo de longa distancia. O sinal mudou de -43 dBm no sta1 para -60 dBm de acordo com a mudança do modelo
+
+c)
+Num ambiente aberto e sem obstaculos, um pouco mais alto que os outros dipositivos. Para aumentar o seu range (alcanse)
+
+4)
+a)
+
+b)
+É um dos tipos de sensoriamento do WLAN. É utilizado para saber a energia do canal e calcular se o pacote poderá ou não ser enviado
+
+5)
+a)
+Houve uma interrupção, porque sta1 e sta2 estavam em lugares diferentes. Sta1 é um tipo de nó não fixo
+
+b)
+Ocorreu handover. Ele funciona se movimentando-se junto ao usuario para que o sinal não caia
